@@ -1,0 +1,6 @@
+{
+  "name": "Study AI Prep",
+  "description": "AI-powered Exam Preparation App for Engineering, UPSC, and NEET/JEE students. Create flashcards, practice quizzes, get difficult topic explanations, and do mock interviews with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
